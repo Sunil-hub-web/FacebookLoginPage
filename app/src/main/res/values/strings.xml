@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FacebookLoginPage</string>
+
+    <string name="facebook_app_id">994943514552616</string>
+    <string name="fb_login_protocol_scheme">fb994943514552616</string>
+    <string name="facebook_client_token">30e99e0a4fe20b4f33b40a468c8e71a9</string>
+
+</resources>
